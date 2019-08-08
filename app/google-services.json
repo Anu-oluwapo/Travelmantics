@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:25739897166:android:e6280a8dcb385317",
+        "mobilesdk_app_id": "1:25739897166:android:b4470d06b32c6715",
         "android_client_info": {
           "package_name": "com.example.travelmantics"
         }
       },
       "oauth_client": [
         {
-          "client_id": "25739897166-um4usdmml14tv3iqdjlaaa0tuph7j0re.apps.googleusercontent.com",
+          "client_id": "25739897166-16l72u4he78g7m2ojqt9rem0mejdev44.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.travelmantics",
